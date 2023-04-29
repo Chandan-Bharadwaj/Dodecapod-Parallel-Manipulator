@@ -14,4 +14,4 @@ Parallel manipulators, known for their superior characteristics and dynamic capa
 - Variable workspace offered by the Dodecapod is shown through plots.
 
 ## Publication:
-C. Bharadwaj, D. Vijay, and R. Dhanush, “Modelling and analysis of a modified Dodecapod parallel manipulator,” Vibroengineering PROCEDIA, vol. 30, pp. 221–226, Apr. 2020, doi: 10.21595/vp.2020.21389.
+C. Bharadwaj, D. Vijay, and R. Dhanush, “Modelling and analysis of a modified Dodecapod parallel manipulator,” Vibroengineering PROCEDIA, vol. 30, pp. 221–226, Apr. 2020, [doi: 10.21595/vp.2020.21389](https://doi.org/10.21595/vp.2020.21389).
